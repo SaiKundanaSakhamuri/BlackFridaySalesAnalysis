@@ -50,11 +50,10 @@ As there are ample features to support the predictions, primary dataset is effic
 
 <li>Linear Regression
     
-    
 ### Files and Content
-    | File Name          |       Content                                                                     |
-    |--------------------|------------------------------------------------------------------------------------|
-    |BlackFridaySales.csv| Consists of the data sets, exported from the Primary dataset link provided above  |
-    |initial_exploration.ipynb| Retreived dataset from the csv file. Analyzed, cleaned and created traing and test data sets|
-    |linear_regression.ipynb|Preapared the dataset for Linear regression.Declared the initial set of features for X and the target feature y.Tried 3 different approaches for linear regression.Discussed the results after each approach of Linear Regression.|
-    |BlackFridaySalesPrediction_Proposal|A word document defines the problem statement and explains the analysis approach of this project|
+| File Name                           |         Content                                                                                                        |
+|:-----------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
+| BlackFridaySales.csv                | Consists of the data sets, exported from the Primary dataset link provided above                                       |
+| BlackFridaySalesPrediction_Proposal |           A word document defines the problem statement and explains the analysis approach of this project             |
+| initial_exploration.ipynb           | Retreived dataset from the csv file. Analyzed, cleaned and created traing and test data sets                           |
+|  linear_regression.ipynb            | Preapared the dataset for Linear regression.Declared the initial set of features for X and the target feature y.Tried 3                                                 different approaches for linear regression.Discussed the results after each approach of Linear Regression.           |
