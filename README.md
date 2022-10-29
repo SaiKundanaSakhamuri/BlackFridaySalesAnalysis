@@ -49,6 +49,8 @@ As there are ample features to support the predictions, primary dataset is effic
 ### Algorithms used until now
 
 <li>Linear Regression
+<li>Decision tree
+<li>Extreme Gradient Boosting
     
 ### Files and Content
 | File Name                           |         Content                                                                                                        |
@@ -57,3 +59,4 @@ As there are ample features to support the predictions, primary dataset is effic
 | BlackFridaySalesPrediction_Proposal |           A word document defines the problem statement and explains the analysis approach of this project             |
 | initial_exploration.ipynb           | Retreived dataset from the csv file. Analyzed, cleaned and created traing and test data sets                           |
 |  linear_regression.ipynb            | Preapared the dataset for Linear regression.Declared the initial set of features for X and the target feature y.Tried 3                                                 different approaches for linear regression.Discussed the results after each approach of Linear Regression.           |
+|  classification.ipynb               |In this note book we implemented Decision tree and Extreme Gradient Boosting algorithms and calculated all the related metrics. We discovered Decision tree suits best for our data set. It also explains why SVM can not be performed for the data set.|
