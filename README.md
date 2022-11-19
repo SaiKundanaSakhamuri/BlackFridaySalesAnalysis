@@ -51,6 +51,11 @@ As there are ample features to support the predictions, primary dataset is effic
 <li>Linear Regression
 <li>Decision tree
 <li>Extreme Gradient Boosting
+<li>k-means clustering
+<li>Random Forest Regressor
+<li>Ridge regression
+<li>Lasso regression
+
     
 ### Files and Content
 | File Name                           |         Content                                                                                                        |
@@ -60,3 +65,4 @@ As there are ample features to support the predictions, primary dataset is effic
 | initial_exploration.ipynb           | Retreived dataset from the csv file. Analyzed, cleaned and created traing and test data sets                           |
 |  linear_regression.ipynb            | Preapared the dataset for Linear regression.Declared the initial set of features for X and the target feature y.Tried 3                                                 different approaches for linear regression.Discussed the results after each approach of Linear Regression.           |
 |  classification.ipynb               |In this note book we implemented Decision tree and Extreme Gradient Boosting algorithms and calculated all the related metrics. We discovered Decision tree suits best for our data set. It also explains why SVM can not be performed for the data set.|
+|  clustering.ipynb                   |k-means clustering, Random Forest Regressor, Ridge and Lasso regressions are performed and the related metricsare calculated. Along with these Dimensional analysis is done and plotted with PCA model. Anomalous data is also discussed |
