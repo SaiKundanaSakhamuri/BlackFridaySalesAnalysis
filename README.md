@@ -1,12 +1,3 @@
-# Machine-Learning-Project-Starter
-Repository of all project documentation and Code
-
-My previous selected project was *Breast Cancer Detection using Monogram*. I realized the loopholes in that and the problems I will face going forward.
-- the analysis is to be extracted from an image
-- The selected dataset doesn�t help me explore more ML concepts going further.
-- most of the datasets have missing values
-- it covers only regression from our course work
-
 ## My new project : **Black Friday Sales Prediction**.
 
 
